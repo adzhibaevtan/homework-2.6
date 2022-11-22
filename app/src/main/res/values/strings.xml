@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HM-2.6</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="enter_email">Введите вашу почту</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="input">Вход</string>
+    <string name="come_in">Войти</string>
+</resources>
